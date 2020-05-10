@@ -25,23 +25,6 @@
     color: black;
     background-color:white;
 }
-.welcome {
-    height:80px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
-    text-align: center;
-    background-color: turquoise;
-    padding-top: 10px;
-}
-.image {
-    background-color:rgb(46, 43, 43);
-    border: 2px solid black;
-    
-    
-}
-.card {
-    margin: 20px;
-}
 .header {
     height:80px;
     position: absolute;
@@ -69,6 +52,23 @@
 @keyframes image {
     from  {border-radius:0%;}
     to    {border-radius: 50%;}
+}
+.welcome {
+    height:80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: turquoise;
+    padding-top: 10px;
+}
+.image {
+    background-color:rgb(46, 43, 43);
+    border: 2px solid black;
+    
+    
+}
+.card {
+    margin: 20px;
 }
 .versova {
     background-color:white;
